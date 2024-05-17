@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+body{
+    margin: 0;
+    background-color: #5ca1d7;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+main{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.top{
+    color: white;
+}
+h1:hover{
+    color: black;
+}
+ol{
+    width: 300px;
+    display: table;
+    margin: 0 auto;
+}
+li{
+    text-align: left;
+}
+#heroimager{
+    width: 40%;
+}
+blockquote{
+    color: white;
+    font-size: 1.7em;
+}
