@@ -17,3 +17,20 @@ nav a:hover{
 #hero-img{
     width: 100%;
 }
+nav a {
+    text-align: center;
+    color: #b14c87b9;
+    text-decoration: none;
+}
+.book, .join {
+    text-decoration: none;
+}
+footer a{
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+} 
+footer p a:hover {
+    text-decoration: underline;
+}
