@@ -1,0 +1,19 @@
+#background {
+    height: 725px;
+}
+body{
+    background-color: #609B3F;
+}
+header{
+    background-color: #006994;
+}
+nav a:hover{
+    background-color: green;
+    color: black;
+}
+.icon, .logo {
+    width: 80px;
+}
+#hero-img{
+    width: 100%;
+}
