@@ -1,0 +1,23 @@
+circle{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.tart-1 {
+    grid-column: 2/3;
+    .gridbox{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background-color: gray;
+    }
+}
+.tart-2 {
+    grid-column: 1/2;
+    .gridbox{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background-image: tart
+    }
+}
+.size {
+    font-size: 600px;
+}
