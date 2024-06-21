@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9+Charted&family=Sedgwick+Ave+Display&display=swap');
+
 #background {
     height: 725px;
 }
@@ -34,3 +36,11 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
+.home-title {
+    font-family: "Sedgwick Ave Display";
+    font-size: 2em;
+}
+.msg {
+    background-color: #DE6333;
+    line-height: 1.5em;
+  }
